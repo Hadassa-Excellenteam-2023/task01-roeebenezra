@@ -1,0 +1,1 @@
+target_sources (${CMAKE_PROJECT_NAME} PRIVATE "main.cpp" "Vector.cpp" "Stack.cpp")
